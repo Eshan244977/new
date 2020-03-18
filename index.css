@@ -1,0 +1,39 @@
+.navbar{
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity: 0.9;
+}
+.nav-item{
+    font-size: 1.4rem;
+    padding-right: 20px;
+}
+.nav-item:last-child{
+    padding-right: 0;
+}
+#showcase{
+    background-image: url('banner.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+}
+.overlay{
+    background: rgba(50, 146, 156, 0.7);
+    min-height: 600px;
+
+}
+#subscribe{
+    background: #252525;
+}
+#author img{
+    margin-top: -60px;
+}
+.card-size{
+    height: 300px;
+}
+.card-size:hover{
+    background: #3292a6;
+    color: #fff;
+}
+.style-faa{
+    font-size: 30px;
+}
